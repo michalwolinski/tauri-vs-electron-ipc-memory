@@ -1,0 +1,10 @@
+{"mode":"default","mb":1,"ms":8.2,"text_bytes":1048746}
+{"mode":"default","mb":10,"ms":51.4,"text_bytes":10485817}
+{"mode":"default","mb":50,"ms":30001.5,"error":"no answer in 30 s"}
+{"mode":"default","mb":1,"ms":21.8,"text_bytes":1048746}
+{"mode":"default","server_alive":true}
+{"mode":"raised","mb":1,"ms":8.7,"text_bytes":1048746}
+{"mode":"raised","mb":10,"ms":51.9,"text_bytes":10485817}
+{"mode":"raised","mb":50,"ms":267.0,"text_bytes":52428981}
+{"mode":"raised","mb":1,"ms":5.0,"text_bytes":1048746}
+{"mode":"raised","server_alive":true}

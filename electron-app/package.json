@@ -1,0 +1,21 @@
+{
+  "name": "electron-bench",
+  "version": "1.0.0",
+  "description": "Electron half of the Tauri vs Electron IPC and memory bench",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Michał Woliński (https://wolinski.com)",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.2"
+  },
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "45.2.3"
+  },
+  "private": true,
+  "homepage": "https://wolinski.com/blog/tauri-vs-electron-ipc-memory.html"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "rows-mcp-server",
+  "version": "1.0.0",
+  "description": "The stdio MCP server both apps of the Tauri vs Electron bench connect to",
+  "author": "Michał Woliński (https://wolinski.com)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.2",
+    "zod": "4.6.7"
+  },
+  "private": true,
+  "homepage": "https://wolinski.com/blog/tauri-vs-electron-ipc-memory.html"
+}

@@ -1,0 +1,4 @@
+{"client":"typescript-sdk","mode":"default","mb":8,"ms":118.6,"text_bytes":8388732}
+{"client":"typescript-sdk","mode":"default","mb":9,"ms":132.6,"error":"MCP error -32000: Connection closed"}
+{"client":"rmcp","mode":"default","mb":14,"ms":78.7,"text_bytes":14680271}
+{"client":"rmcp","mode":"default","mb":15,"ms":30001.6,"error":"no answer in 30 s"}

@@ -1,0 +1,15 @@
+{"mode":"default","mb":1,"ms":9,"text_bytes":1048746}
+{"mode":"default","mb":10,"ms":208.4,"error":"MCP error -32000: Connection closed"}
+{"mode":"default","mb":50,"ms":0,"error":"Not connected"}
+{"mode":"default","mb":1,"ms":0,"error":"Not connected"}
+{"mode":"default","server_alive":false,"client_closed":true}
+{"mode":"raised","mb":1,"ms":7.9,"text_bytes":1048746}
+{"mode":"raised","mb":10,"ms":200.3,"text_bytes":10485817}
+{"mode":"raised","mb":50,"ms":6330.9,"text_bytes":52428981}
+{"mode":"raised","mb":1,"ms":13.5,"text_bytes":1048746}
+{"mode":"raised","server_alive":true,"client_closed":false}
+{"mode":"linear","mb":1,"ms":7.7,"text_bytes":1048746}
+{"mode":"linear","mb":10,"ms":47.6,"text_bytes":10485817}
+{"mode":"linear","mb":50,"ms":223.9,"text_bytes":52428981}
+{"mode":"linear","mb":1,"ms":5,"text_bytes":1048746}
+{"mode":"linear","server_alive":true,"client_closed":false}

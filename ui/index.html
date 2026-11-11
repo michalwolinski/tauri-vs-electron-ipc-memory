@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>IPC bench</title>
+  <style>
+    body { font: 14px system-ui, sans-serif; margin: 24px; }
+    #log { font: 12px ui-monospace, monospace; white-space: pre; }
+  </style>
+</head>
+<body>
+  <h1>IPC bench</h1>
+  <p id="status">starting</p>
+  <div id="log"></div>
+  <script src="bridge-tauri.js"></script>
+  <script src="bridge-electron.js"></script>
+  <script src="bench.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+node_modules/
+tauri-app/target/
+tauri-app/gen/
+electron-app/dist/
+electron-app/ui/
+payloads/
+runs/.results.jsonl
+runs/smoke/

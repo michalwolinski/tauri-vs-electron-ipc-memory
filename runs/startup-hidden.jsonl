@@ -1,0 +1,20 @@
+{"app": "tauri", "hidden": false, "launch": 1, "script_s": 1.583812416, "frame_s": null, "page_marks": {"script": ["6", "hidden"]}}
+{"app": "tauri", "hidden": true, "launch": 1, "script_s": 0.33890195799999745, "frame_s": null, "page_marks": {"script": ["6", "hidden"]}}
+{"app": "electron", "hidden": false, "launch": 1, "script_s": 3.2294367080000015, "frame_s": 3.233235041999997, "page_marks": {"script": ["85", "visible"], "frame": ["90", "visible"]}}
+{"app": "electron", "hidden": true, "launch": 1, "script_s": 0.28296670800000356, "frame_s": 0.28932829200000043, "page_marks": {"script": ["35", "visible"], "frame": ["42", "visible"]}}
+{"app": "tauri", "hidden": false, "launch": 2, "script_s": 0.3226937919999955, "frame_s": 0.3865131669999968, "page_marks": {"script": ["5", "visible"], "frame": ["69", "visible"]}}
+{"app": "tauri", "hidden": true, "launch": 2, "script_s": 0.31674287500000275, "frame_s": null, "page_marks": {"script": ["6", "hidden"]}}
+{"app": "electron", "hidden": false, "launch": 2, "script_s": 0.5705103330000014, "frame_s": 0.5743653329999887, "page_marks": {"script": ["119", "visible"], "frame": ["124", "visible"]}}
+{"app": "electron", "hidden": true, "launch": 2, "script_s": 0.2687249170000001, "frame_s": 0.274650500000007, "page_marks": {"script": ["35", "visible"], "frame": ["42", "visible"]}}
+{"app": "tauri", "hidden": false, "launch": 3, "script_s": 0.3357943750000061, "frame_s": 0.3980786249999966, "page_marks": {"script": ["6", "visible"], "frame": ["68", "visible"]}}
+{"app": "tauri", "hidden": true, "launch": 3, "script_s": 0.38874445900000865, "frame_s": null, "page_marks": {"script": ["9", "hidden"]}}
+{"app": "electron", "hidden": false, "launch": 3, "script_s": 0.59397258300001, "frame_s": 0.5978666670000052, "page_marks": {"script": ["123", "visible"], "frame": ["129", "visible"]}}
+{"app": "electron", "hidden": true, "launch": 3, "script_s": 0.29392154200000675, "frame_s": 0.30012116700000036, "page_marks": {"script": ["38", "visible"], "frame": ["45", "visible"]}}
+{"app": "tauri", "hidden": false, "launch": 4, "script_s": 0.37356570900000463, "frame_s": 0.4389781670000019, "page_marks": {"script": ["6", "visible"], "frame": ["71", "visible"]}}
+{"app": "tauri", "hidden": true, "launch": 4, "script_s": 0.3973549580000082, "frame_s": null, "page_marks": {"script": ["7", "hidden"]}}
+{"app": "electron", "hidden": false, "launch": 4, "script_s": 1.136893083000004, "frame_s": 1.1399103749999995, "page_marks": {"script": ["118", "visible"], "frame": ["125", "visible"]}}
+{"app": "electron", "hidden": true, "launch": 4, "script_s": 0.3054024159999926, "frame_s": 0.3125107500000013, "page_marks": {"script": ["34", "visible"], "frame": ["42", "visible"]}}
+{"app": "tauri", "hidden": false, "launch": 5, "script_s": 0.345387584000008, "frame_s": 0.43829404200000965, "page_marks": {"script": ["32", "visible"], "frame": ["129", "visible"]}}
+{"app": "tauri", "hidden": true, "launch": 5, "script_s": 0.3241841660000091, "frame_s": null, "page_marks": {"script": ["6", "hidden"]}}
+{"app": "electron", "hidden": false, "launch": 5, "script_s": 0.5720086669999773, "frame_s": 0.577707624999988, "page_marks": {"script": ["94", "visible"], "frame": ["101", "visible"]}}
+{"app": "electron", "hidden": true, "launch": 5, "script_s": 0.3934438330000205, "frame_s": 0.39987825000000043, "page_marks": {"script": ["43", "visible"], "frame": ["51", "visible"]}}

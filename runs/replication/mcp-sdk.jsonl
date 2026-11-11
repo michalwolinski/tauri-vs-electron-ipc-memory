@@ -1,0 +1,15 @@
+{"mode":"default","format":"json","mb":1,"ms":8.6,"text_bytes":1048746}
+{"mode":"default","format":"json","mb":10,"ms":204.3,"error":"MCP error -32000: Connection closed"}
+{"mode":"default","format":"json","mb":50,"ms":0.5,"error":"Not connected"}
+{"mode":"default","format":"json","mb":1,"ms":0,"error":"Not connected"}
+{"mode":"default","server_alive":false,"client_closed":true}
+{"mode":"raised","format":"json","mb":1,"ms":8.6,"text_bytes":1048746}
+{"mode":"raised","format":"json","mb":10,"ms":197.2,"text_bytes":10485817}
+{"mode":"raised","format":"json","mb":50,"ms":5842.2,"text_bytes":52428981}
+{"mode":"raised","format":"json","mb":1,"ms":9.4,"text_bytes":1048746}
+{"mode":"raised","server_alive":true,"client_closed":false}
+{"mode":"linear","format":"json","mb":1,"ms":6.8,"text_bytes":1048746}
+{"mode":"linear","format":"json","mb":10,"ms":46,"text_bytes":10485817}
+{"mode":"linear","format":"json","mb":50,"ms":213.4,"text_bytes":52428981}
+{"mode":"linear","format":"json","mb":1,"ms":4.6,"text_bytes":1048746}
+{"mode":"linear","server_alive":true,"client_closed":false}

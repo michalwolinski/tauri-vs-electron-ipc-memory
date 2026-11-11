@@ -1,0 +1,4 @@
+tauri    channel         1 MB median 26 ms, peak sum 213 MiB []
+tauri    channel-raw     1 MB median None ms, peak sum 78 MiB []
+tauri    channel        10 MB median None ms, peak sum 86 MiB []
+tauri    channel-raw    10 MB median None ms, peak sum 87 MiB []

@@ -1,0 +1,36 @@
+rows-1mb.json 1048746 bytes, 4055 rows
+rows-10mb.json 10485817 bytes, 40376 rows
+rows-50mb.json 52428981 bytes, 201331 rows
+tauri    raw-response   50 MB median 115 ms, peak sum 1104 MiB []
+tauri    protocol       50 MB median 113 ms, peak sum 963 MiB []
+tauri    serde-struct   50 MB median 279 ms, peak sum 926 MiB []
+tauri    vec-u8         50 MB median 1072 ms, peak sum 3225 MiB []
+tauri    channel        50 MB median 942 ms, peak sum 1057 MiB []
+tauri    first-page     50 MB median 109 ms, peak sum 295 MiB []
+tauri    mcp-raw        50 MB median 369 ms, peak sum 1456 MiB []
+electron string         50 MB median 141.80000001192093 ms, peak sum 827 MiB []
+electron buffer         50 MB median 174 ms, peak sum 891 MiB []
+electron object         50 MB median 609.5 ms, peak sum 1162 MiB []
+electron first-page     50 MB median 106.09999996423721 ms, peak sum 506 MiB []
+electron mcp-string     50 MB median 4427.5 ms, peak sum 1622 MiB []
+tauri    mcp=0 #1 script 0.349 ready 0.455 s {'script': ['9'], 'frame': ['115', 'visible']}, 60.3 MiB
+electron mcp=0 #1 script 0.327 ready 0.335 s {'script': ['83'], 'frame': ['91', 'visible']}, 85.1 MiB
+tauri    mcp=1 #1 script 0.522 ready 0.588 s {'script': ['5'], 'frame': ['71', 'visible']}, 60.8 MiB
+electron mcp=1 #1 script 0.560 ready 0.565 s {'script': ['66'], 'frame': ['71', 'visible']}, 102.5 MiB
+tauri    mcp=0 #2 script 0.300 ready 0.366 s {'script': ['6'], 'frame': ['71', 'visible']}, 60.2 MiB
+electron mcp=0 #2 script 0.305 ready 0.313 s {'script': ['49'], 'frame': ['67', 'visible']}, 86.8 MiB
+tauri    mcp=1 #2 script 0.480 ready 0.548 s {'script': ['5'], 'frame': ['72', 'visible']}, 60.5 MiB
+electron mcp=1 #2 script 0.564 ready 0.577 s {'script': ['63'], 'frame': ['76', 'visible']}, 101.9 MiB
+tauri    mcp=0 #3 script 0.322 ready 0.387 s {'script': ['5'], 'frame': ['70', 'visible']}, 60.5 MiB
+electron mcp=0 #3 script 0.316 ready 0.326 s {'script': ['45'], 'frame': ['78', 'visible']}, 87.1 MiB
+tauri    mcp=1 #3 script 0.506 ready 0.577 s {'script': ['6'], 'frame': ['76', 'visible']}, 60.8 MiB
+electron mcp=1 #3 script 0.567 ready 0.572 s {'script': ['67'], 'frame': ['73', 'visible']}, 102.1 MiB
+tauri    mcp=0 #4 script 0.299 ready 0.366 s {'script': ['6'], 'frame': ['73', 'visible']}, 60.2 MiB
+electron mcp=0 #4 script 0.302 ready 0.311 s {'script': ['58'], 'frame': ['77', 'visible']}, 86.0 MiB
+tauri    mcp=1 #4 script 0.480 ready 0.549 s {'script': ['5'], 'frame': ['75', 'visible']}, 60.9 MiB
+electron mcp=1 #4 script 0.608 ready 0.609 s {'script': ['71'], 'frame': ['72', 'visible']}, 102.3 MiB
+tauri    mcp=0 #5 script 0.301 ready 0.368 s {'script': ['6'], 'frame': ['72', 'visible']}, 60.4 MiB
+electron mcp=0 #5 script 0.305 ready 0.306 s {'script': ['72'], 'frame': ['74', 'visible']}, 85.9 MiB
+tauri    mcp=1 #5 script 0.471 ready 0.580 s {'script': ['6'], 'frame': ['114', 'visible']}, 69.1 MiB
+electron mcp=1 #5 script 0.554 ready 0.558 s {'script': ['68'], 'frame': ['72', 'visible']}, 103.3 MiB
+replica-done

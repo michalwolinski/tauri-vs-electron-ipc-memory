@@ -1,0 +1,6 @@
+tauri    first-page      1 MB median 8 ms, peak sum 30 MiB []
+electron first-page      1 MB median 5.199999988079071 ms, peak sum 122 MiB []
+tauri    first-page     10 MB median 27 ms, peak sum 87 MiB []
+electron first-page     10 MB median 27.599999964237213 ms, peak sum 188 MiB []
+tauri    first-page     50 MB median 129 ms, peak sum 247 MiB []
+electron first-page     50 MB median 108 ms, peak sum 508 MiB []

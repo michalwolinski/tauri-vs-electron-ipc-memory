@@ -1,0 +1,32 @@
+[package]
+name = "tauri-bench"
+version = "1.0.0"
+description = "Tauri half of the Tauri vs Electron IPC and memory bench"
+authors = ["Michał Woliński <https://wolinski.com>"]
+license = "MIT"
+edition = "2024"
+rust-version = "1.90"
+homepage = "https://wolinski.com/blog/tauri-vs-electron-ipc-memory.html"
+
+[lib]
+name = "tauri_bench_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "=2.7.4", features = [] }
+
+[dependencies]
+tauri = { version = "=2.12.5", features = [] }
+serde = { version = "1", features = ["derive", "rc"] }
+serde_json = "1"
+rmcp = { version = "=3.9.0", features = ["client", "transport-child-process"] }
+tokio = { version = "1", features = ["process", "sync"] }
+
+[profile.release]
+codegen-units = 1
+lto = true
+opt-level = 3
+strip = true
+
+[dev-dependencies]
+tokio = { version = "1", features = ["macros", "rt-multi-thread", "time", "process"] }

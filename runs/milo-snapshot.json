@@ -1,0 +1,33 @@
+{
+ "measured": "2026-11-10",
+ "app": "Milo (Tauri 2.12.2), running since launch",
+ "uptime": "10-23:36:15",
+ "processes": [
+  {
+   "process": "com.apple.SafariPlatformSupport.Helper",
+   "footprint_mib": 19.2,
+   "peak_mib": 22.2
+  },
+  {
+   "process": "milo-desktop",
+   "footprint_mib": 44.2,
+   "peak_mib": 48.0
+  },
+  {
+   "process": "com.apple.WebKit.GPU",
+   "footprint_mib": 14.4,
+   "peak_mib": 68.0
+  },
+  {
+   "process": "com.apple.WebKit.WebContent",
+   "footprint_mib": 136.5,
+   "peak_mib": 357.7
+  },
+  {
+   "process": "com.apple.WebKit.Networking",
+   "footprint_mib": 7.5,
+   "peak_mib": 8.0
+  }
+ ],
+ "total_mib": 221.8
+}
